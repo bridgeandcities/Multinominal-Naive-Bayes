@@ -210,7 +210,3 @@ test_set.drop(["abstract"], axis = 1).to_csv("tst_kaggle_2.csv", index=False)
 
 
 # In[ ]:
-
-
-
-
